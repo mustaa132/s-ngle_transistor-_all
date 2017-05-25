@@ -1,0 +1,7 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"C1,C2";"CP_Radial_D16.0mm_P7.50mm";2;"20uF";;;
+2;"C3";"CP_Radial_D26.0mm_P10.00mm_SnapIn";1;"50uF";;;
+3;"P1,P2";"SW_PUSH";2;"CONN_01X02";;;
+4;"Q1";"TO-92_Molded_Narrow";1;"BC547";;;
+5;"R1";"R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal";1;"22k";;;
+6;"R2,R3,R4";"R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal";3;"R";;;

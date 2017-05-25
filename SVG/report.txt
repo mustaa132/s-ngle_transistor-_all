@@ -1,0 +1,8 @@
+Plot: 'C:\Users\mustafa\Desktop\testproject\Single_Transistor_Amp\SVG\Single_Transistor_Amp-F.Cu.svg' OK.
+Plot: 'C:\Users\mustafa\Desktop\testproject\Single_Transistor_Amp\SVG\Single_Transistor_Amp-B.Cu.svg' OK.
+Plot: 'C:\Users\mustafa\Desktop\testproject\Single_Transistor_Amp\SVG\Single_Transistor_Amp-B.SilkS.svg' OK.
+Plot: 'C:\Users\mustafa\Desktop\testproject\Single_Transistor_Amp\SVG\Single_Transistor_Amp-F.SilkS.svg' OK.
+Plot: 'C:\Users\mustafa\Desktop\testproject\Single_Transistor_Amp\SVG\Single_Transistor_Amp-B.Mask.svg' OK.
+Plot: 'C:\Users\mustafa\Desktop\testproject\Single_Transistor_Amp\SVG\Single_Transistor_Amp-F.Mask.svg' OK.
+Plot: 'C:\Users\mustafa\Desktop\testproject\Single_Transistor_Amp\SVG\Single_Transistor_Amp-Dwgs.User.svg' OK.
+Plot: 'C:\Users\mustafa\Desktop\testproject\Single_Transistor_Amp\SVG\Single_Transistor_Amp-Edge.Cuts.svg' OK.

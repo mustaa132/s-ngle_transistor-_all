@@ -1,0 +1,20 @@
+Source,C:/Users/mustafa/Desktop/testproject/Single_Transistor_Amp/Single_Transistor_Amp.sch
+Kicad Rev,Eeschema 4.0.5
+Generated Date,25.05.2017 08:58:50
+
+Title,Single Transistor Amp Full
+Company,Mustafa YILDIZ
+Revision,1
+Date Issue,2017-05-24
+
+Reference,Value,Library,Library Ref
+Q1,BC547,transistors,BC547
+R2,R,device,R
+R1,22k,device,R
+R3,R,device,R
+R4,R,device,R
+C1,20uF,device,C
+C2,20uF,device,C
+C3,50uF,device,C
+P2,CONN_01X02,conn,CONN_01X02
+P1,CONN_01X02,conn,CONN_01X02
